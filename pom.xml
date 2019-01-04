@@ -8,6 +8,7 @@
     <artifactId>com.rui.sun</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
     <dependencies>
         <!-- junit -->
         <dependency>
